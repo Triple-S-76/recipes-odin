@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    text-decoration-line: underline;
+    font-style: italic;
+}
+
+h3 {
+    color: red;
+    text-decoration-line: underline;
+}
+
+li {
+    color: green;
+}
+
+#nutrition {
+    color: orange;
+    
+}
